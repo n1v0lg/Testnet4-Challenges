@@ -1,1 +1,3 @@
-nodeid:<replace this text with the nodeid>
+nodeid:3c2df8fb19fae684
+
+Note: due to the test net glitch I had stop the node, extract minified logs, remove the full logs (my node had run out of storage due to the volume of warnings), and restart. After that I restarted the node. The combined uptime is as required. I'm attaching minified logs from the first period and the second period.
